@@ -71,16 +71,16 @@ The system also provides **an admin dashboard** for managing products, bookings,
 ---
 # 💻 UI Preview
 
-![Screen1](screen1.png)
-![Screen2](screen2.png)
-![Screen3](screen3.png)
-![Screen4](screen4.png)
-![Screen5](screen5.png)
-![Screen6](screen6.png)
-![Screen7](screen7.png)
-![Screen8](screen8.png)
-![Screen9](screen9.png)
-![Screen10](screen10.png)
+![Screen1](screen1.jpg)
+![Screen2](screen2.jpg)
+![Screen3](screen3.jpg)
+![Screen4](screen4.jpg)
+![Screen5](screen5.jpg)
+![Screen6](screen6.jpg)
+![Screen7](screen7.jpg)
+![Screen8](screen8.jpg)
+![Screen9](screen9.jpg)
+![Screen10](screen10.jpg)
 
 ---
 
