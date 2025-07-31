@@ -69,7 +69,6 @@ The system also provides **an admin dashboard** for managing products, bookings,
 - Enhanced dashboard analytics (sales reports, top-selling coffees).
 
 ---
-
 # 💻 UI Preview
 
 ![Screen1](screen1.png)
